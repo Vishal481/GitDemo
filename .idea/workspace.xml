@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2f894cf-aaf4-4147-a9b3-3620e18179cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitDemo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+    <list default="true" id="8c0caded-b9c0-492a-aa56-f2f561928c27" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OAuthTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OAuthTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SalesForce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SalesForce.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectId" id="1am8QlLXFh7mREVrSXQ1vyVsiAx" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,7 +21,6 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="SvnConfiguration">
@@ -34,22 +28,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b2f894cf-aaf4-4147-a9b3-3620e18179cb" name="Default Changelist" comment="" />
-      <created>1587327545022</created>
+      <changelist id="8c0caded-b9c0-492a-aa56-f2f561928c27" name="Default Changelist" comment="" />
+      <created>1587329394328</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1587327545022</updated>
+      <updated>1587329394328</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="463" y="84" key="FileChooserDialogImpl" timestamp="1587327584944">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="84" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587327584944" />
-    <state x="350" y="68" key="NewModule_or_Project.wizard" timestamp="1587327615628">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="350" y="68" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1587327615628" />
   </component>
 </project>
