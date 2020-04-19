@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddb1da51-4dc3-4be1-ab21-4f38639f5806" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZSCkWK6ZV5EdPON0d5GavM8o24" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kvish\IdeaProjects\FirstMaven\src\test\java" />
+      <recent name="C:\Users\kvish\IdeaProjects\FirstMaven\src\test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kvish\IdeaProjects\FirstMaven\src\main\java" />
+      <recent name="C:\Users\kvish\IdeaProjects\FirstMaven\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OAuthTest2">
+    <configuration name="OAuthTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OAuthTest" />
+      <module name="FirstMaven" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OAuthTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OAuthTest2" />
+      <module name="FirstMaven" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynamicJson" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FirstMaven" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DynamicJson" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynamicJson.addBook" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FirstMaven" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DynamicJson" />
+      <option name="METHOD_NAME" value="addBook" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetAPITest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FirstMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.Test.GetAPITest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OAuthTest2" />
+        <item itemvalue="Application.OAuthTest" />
+        <item itemvalue="TestNG.GetAPITest" />
+        <item itemvalue="TestNG.DynamicJson" />
+        <item itemvalue="TestNG.DynamicJson.addBook" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddb1da51-4dc3-4be1-ab21-4f38639f5806" name="Default Changelist" comment="" />
+      <created>1584823251772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584823251772</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#Getter_Template" timestamp="1586378741380">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Getter_Template/0.0.1366.728@0.0.1366.728" timestamp="1586378741380" />
+    <state x="275" y="25" key="#Project_Structure" timestamp="1586266206351">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1586266206351" />
+    <state x="100" y="100" width="1166" height="528" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585747550622">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="100" y="100" width="1166" height="528" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1585747550622" />
+    <state x="444" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584875678116">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="444" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1584875678116" />
+    <state x="488" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1586380890452">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1586380890452" />
+    <state x="362" y="293" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586290007515">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="362" y="293" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1586290007515" />
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1586457975334">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586457975334" />
+    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1586457975334">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586457975334" />
+    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1586457975333">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586457975333" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1586457975334">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586457975334" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1586302936007">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586302936007" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1586302936007">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586302936007" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1586302936007">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586302936007" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1586302936007">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586302936007" />
+    <state x="213" y="21" key="Maven.ArtifactSearchDialog" timestamp="1585746109875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="21" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1585746109875" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1584907894502">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584907894502" />
+    <state x="390" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1586874808281">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586874808281" />
+    <state x="262" y="102" width="841" height="555" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1586291515291">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="262" y="102" width="841" height="555" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1586291515291" />
+    <state x="65" y="0" key="new project wizard" timestamp="1585046822224">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1585046822224" />
+  </component>
+</project>
